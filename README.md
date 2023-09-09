@@ -11,16 +11,16 @@
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digital ocean" width="40" height="40"/>
