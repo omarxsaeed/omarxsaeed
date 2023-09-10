@@ -73,14 +73,23 @@
 
 <h3>💻 Software and Tools</h3>
 <p align="left"> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
 </p>
 
