@@ -13,10 +13,10 @@
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -34,7 +34,10 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -44,7 +47,7 @@
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   </a>
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" alt="jasmine" width="40" height="40"/>
   </a>
   <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mochajs" width="40" height="40"/>
@@ -65,6 +68,9 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -84,6 +90,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="github" width="40" height="40"/>
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -94,18 +103,3 @@
     <img src="https://cdn.jsdelivr.xyz/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
 </p>
-
-<!--
-**omarxsaeed/omarxsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
